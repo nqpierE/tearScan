@@ -1,4 +1,4 @@
-#!/home/ryo/projects/tear/venv/bin/python
+#!/home/ryo/projects/tearScan/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
